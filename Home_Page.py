@@ -24,7 +24,6 @@ Welcome to our Streamlit Web Development Lab01 app! You can navigate between the
 1. **Home Page**: This is the landing page for the app.
 2. **Portfolio**: This is info about me! It contains my past job experience, skills, and languages I've learned.
 3. **Quiz**: This is a quick quiz to see what Harry Potter house you’d be in!
-4. ****
 """)
 
 
