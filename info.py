@@ -31,7 +31,7 @@ course_data = {
     }
 experience_data = {
     "Tennis Coach": (["Worked with high level Tennis players and additionally handled my own beginner middle school group.",
-                                                                          "- Had a return rate of almost 90%"],"Images/IMG_1262.JPG"),
+                                                                          "- Had a return rate of almost 90%"],"Images/tennis.coach"),
     "Youth Teacher at Samter Church":(["- Handled lesson plans every week",
                                                            "- Coordinate events with other churches.  "],""),
     "Zaxbys worker":(["- Manned the register and handled customer service."],"")
